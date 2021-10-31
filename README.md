@@ -1,12 +1,12 @@
-![Design de chaîne YouTube 2560x1440  px](https://user-images.githubusercontent.com/62269693/132997053-9f973b6c-4eb9-4c83-9f40-82bd146ca149.png)
+! [Design de chaîne YouTube 2560x1440 px] ( https://photos.app.goo.gl/DsucyA4X6YHuwdJB8 )
 
-Hey Salut, moi c'est LN je suis etudiant et developpeur FrontEnd Web / Mobile.
+Hey Salut, moi c'est LN je suis étudiant et développeur FrontEnd Web / Mobile. 
 Actuellement j'essaie de me perfectionner dans les technologies React et ReactNative,
 Tout en cherchant des jobs ou stage en alternance avec mes etudes  :)
 <!--
-**ln-dev7/ln-dev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ln-dev7/ln-dev7** est un référentiel _special_ ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
 
-Here are some ideas to get you started:
+Voici quelques idées pour vous aider à démarrerhttps://drive.google.com/file/d/1OVMmWB8VGsctZnKwkO1d_gW5JNhp2VHv/view?usp=drivesdk:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
