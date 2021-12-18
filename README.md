@@ -10,7 +10,7 @@ Voici quelques idées pour vous aider à démarrerhttps://drive.google.com/file/
 - 🔭 Je suis passioné du <b>creative development</b>
 - 🌱 J'apprends des framework et librairies JavaScript
 - 👯 Je suis <b>Freelance</b>
-- 🤔 Je suis isponible pour travail / stage / alternance
+- 🤔 Je suis disponible pour travail / stage / alternance
 - 💬 Discutons sur twitter <a href="https://twitter.com/ln_dev7" target="_blank">Twitter</a>
 - 📫 Decouvrez plus sur moi <a href="https://lndev.me" target="_blank">ICI</a>
 - 🎮 Joueur de PES
