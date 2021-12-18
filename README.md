@@ -9,7 +9,7 @@
 - 🌱 J'apprends des framework et librairies JavaScript
 - 👯 Je suis <b>Freelance</b>
 - 🤔 Je suis disponible pour travail / stage / alternance
-- 💬 Discutons sur twitter <a href="https://twitter.com/ln_dev7" target="_blank">Twitter</a>
+- 💬 Discutons sur <a href="https://twitter.com/ln_dev7" target="_blank">Twitter</a>
 - 📫 Decouvrez plus sur moi <a href="https://lndev.me" target="_blank">ICI</a>
 - 🎮 Joueur de PES
 - ⚡ #CSSisArt
