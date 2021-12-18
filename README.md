@@ -1,7 +1,7 @@
-![IMG_20211030_220221_850](https://user-images.githubusercontent.com/62269693/139596718-6b172fb1-65fd-4dd9-99c1-04f356a38d8c.jpg)
-
+[Bleu et Blanc Architecte LinkedIn Bannière](https://user-images.githubusercontent.com/62269693/146646891-dbe567a6-35ab-46a4-bd70-1ab9e27f164b.jpg)
 Hey Salut, moi c'est LN je suis étudiant et développeur FrontEnd Web / Mobile. 
-Actuellement j'essaie de me perfectionner dans les technologies React et ReactNative,
+Actuellement j'essaie de me perfectionner dans les technologies React et ReactNative,!
+
 Tout en cherchant des jobs ou stage en alternance avec mes etudes  :)
 <!--
 **ln-dev7/ln-dev7** est un référentiel _special_ ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
