@@ -1,4 +1,4 @@
-![Bleu et Blanc Architecte LinkedIn Bannière](https://user-images.githubusercontent.com/62269693/146647000-68dffb7b-7dfe-463e-bf46-21633aaf4047.jpg)
+![Leonel Ngoya](https://user-images.githubusercontent.com/62269693/147699293-0a486793-e472-4f4b-a5bb-93b6283ffea0.png)
 
 ## Bonjour 👋
 ### Moi c'est Leonel Ngoya ( LN )
