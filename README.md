@@ -3,7 +3,7 @@
 ## Bonjour 👋
 ### Moi c'est Leonel Ngoya ( LN )
 
-- 🌴 Je suis un <b>Développeur Frontend</b>
+- 🌴 Je suis un <b>Développeur Frontend</b> et <b>Intégrateur web</b>
 - 📚 Je suis étudiant en <a href="https://myiuc.com/formation/technologie-de-linformatique-programmation-et-applications-mobiles/">Informatique</a>
 - 🔭 Je suis passioné du <b>creative development</b>
 - 🌱 J'apprends des framework et librairies JavaScript
