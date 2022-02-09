@@ -7,7 +7,7 @@
 - 📚 Je suis étudiant en <a href="https://myiuc.com/formation/technologie-de-linformatique-programmation-et-applications-mobiles/">Informatique</a>
 - 🔭 Je suis passioné du <b>creative development</b>
 - 🌱 J'apprends des framework et librairies JavaScript
-- 👯 Je suis <b>Freelance</b>
+- 👯 Je suis <a href="https://www.fiverr.com/ln_dev7" target="_blank">Freelance</a>
 - 🤔 Je suis disponible pour travail / stage / alternance
 - 💬 Discutons sur <a href="https://twitter.com/ln_dev7" target="_blank">Twitter</a>
 - 📫 Decouvrez plus sur moi <a href="https://lndev.me" target="_blank">ICI</a>
