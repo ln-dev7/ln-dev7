@@ -5,7 +5,6 @@
 - 👯 Je suis <a href="https://www.fiverr.com/ln_dev7" target="_blank">Freelance</a>
 - 📫 Decouvrez plus sur moi <a href="https://lndev.me" target="_blank">ICI</a>
 
-4794e4bc-9756-465f-ba05-3efa39d0e3fc
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
