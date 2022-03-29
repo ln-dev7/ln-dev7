@@ -1,18 +1,13 @@
-![Leonel Ngoya](https://user-images.githubusercontent.com/62269693/147699293-0a486793-e472-4f4b-a5bb-93b6283ffea0.png)
-
 ## Bonjour 👋
 ### Moi c'est Leonel Ngoya ( LN )
 
 - 🌴 Je suis un <b>Développeur Frontend</b> et <b>Intégrateur web</b>
-- 📚 Je suis étudiant en <a href="https://myiuc.com/formation/technologie-de-linformatique-programmation-et-applications-mobiles/">Informatique</a>
-- 🔭 Je suis passioné du <b>creative development</b>
-- 🌱 J'apprends des framework et librairies JavaScript
 - 👯 Je suis <a href="https://www.fiverr.com/ln_dev7" target="_blank">Freelance</a>
-- 🤔 Je suis disponible pour travail / stage / alternance
-- 💬 Discutons sur <a href="https://twitter.com/ln_dev7" target="_blank">Twitter</a>
 - 📫 Decouvrez plus sur moi <a href="https://lndev.me" target="_blank">ICI</a>
-- 🎮 Joueur de PES
-- ⚡ #CSSisArt
+
+4794e4bc-9756-465f-ba05-3efa39d0e3fc
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ln-dev7&label=Profile%20views&color=0e75b6&style=flat" alt="ln-dev7" /> </p>
 
