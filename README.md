@@ -2,7 +2,6 @@
 ### Moi c'est Leonel Ngoya ( LN )
 
 - 🌴 Je suis un <b>Développeur Frontend</b> et <b>Intégrateur web</b>
-- 👯 Je suis <a href="https://www.fiverr.com/ln_dev7" target="_blank">Freelance</a>
 - 📫 Decouvrez plus sur moi <a href="https://lndev.me" target="_blank">ICI</a>
 
 <!--START_SECTION:waka-->
