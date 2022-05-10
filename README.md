@@ -17,6 +17,10 @@ C                23 mins         ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+![Metrics](https://metrics.lecoq.io/ln-dev7?template=classic&base.indepth=false&config.timezone=Africa%2FDouala)
+
+[![LN's github activity graph](https://activity-graph.herokuapp.com/graph?username=ln-dev7&theme=xcode)](https://github.com/ln-dev7)
+
 <p align="left"> 
   <a href="https://twitter.com/ln_dev7" target="blank"><img src="https://img.shields.io/twitter/follow/ln_dev7?logo=twitter&style=for-the-badge" alt="ln_dev7" /></a>
   <img src="https://komarev.com/ghpvc/?username=ln-dev7&label=Profile%20views&color=0e75b6&style=flat" alt="ln-dev7" />
