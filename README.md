@@ -22,7 +22,6 @@ Git Config   1 min           ░░░░░░░░░░░░░░░░░
 
 [![LN's github activity graph](https://activity-graph.herokuapp.com/graph?username=ln-dev7&theme=xcode)](https://github.com/ln-dev7)
 
-<a href="https://app.daily.dev/ln_dev7"><img src="https://api.daily.dev/devcards/4a5398923c3345499b8fb8ec1cf01b25.png?r=pzl" width="400" alt="LN's Dev Card"/></a>
 
 <p align="left"> 
   <a href="https://twitter.com/ln_dev7" target="blank"><img src="https://img.shields.io/twitter/follow/ln_dev7?logo=twitter&style=for-the-badge" alt="ln_dev7" /></a>
