@@ -4,18 +4,8 @@
 - 🌴 I am a <b>Frontend Developer</b> and <b>Web Integrator</b>
 - 📫 Find out more about me <a href="https://lndev.me" target="_blank">HERE</a>
 
-<!--START_SECTION:waka-->
-
-```text
-TypeScript       10 hrs 10 mins  ████████████▒░░░░░░░░░░░░   48.86 %
-HTML             5 hrs 38 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.05 %
-JavaScript       1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-SCSS             1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-JSON             1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-```
-
-<!--END_SECTION:waka-->
+### WAKATIME
+[![wakatime-stats](https://github.com/ln-dev7/ln-dev7/blob/master/images/stat.svg)](https://wakatime.com/@ln_dev7)
 
 <p align="left"> 
   <a href="https://twitter.com/ln_dev7" target="blank"><img src="https://img.shields.io/twitter/follow/ln_dev7?logo=twitter&style=for-the-badge" alt="ln_dev7" /></a>
