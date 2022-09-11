@@ -5,7 +5,7 @@
 - 📫 Find out more about me <a href="https://lndev.me" target="_blank">HERE</a>
 
 ### WAKATIME
-[![wakatime-stats](https://github.com/ln-dev7/ln-dev7/blob/master/images/stat.svg)](https://wakatime.com/@ln_dev7)
+[![wakatime-stats](https://github.com/ln-dev7/ln-dev7/blob/main/images/stat.svg)](https://wakatime.com/@ln_dev7)
 
 <p align="left"> 
   <a href="https://twitter.com/ln_dev7" target="blank"><img src="https://img.shields.io/twitter/follow/ln_dev7?logo=twitter&style=for-the-badge" alt="ln_dev7" /></a>
