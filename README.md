@@ -4,7 +4,7 @@
 - 🌴 I am a <b>Frontend Developer</b> and <b>Web Integrator</b>
 - 📫 Find out more about me <a href="https://lndev.me" target="_blank">HERE</a>
 
-### WAKATIME
+### Wakatime
 [![wakatime-stats](https://github.com/ln-dev7/ln-dev7/blob/main/images/stat.svg)](https://wakatime.com/@ln_dev7)
 
 <p align="left"> 
