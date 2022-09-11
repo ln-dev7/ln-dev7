@@ -1,5 +1,5 @@
 ## Hello 👋
-### I'm Leonel Ngoya ( LN )
+### I'm Leonel Ngoya ( <a href="https://leonelngoya.com" target="_blank">LN</a> )
 
 - 🌴 I am a <b>Frontend Developer</b> and <b>Web Integrator</b>
 - 📫 Find out more about me <a href="https://lndev.me" target="_blank">HERE</a>
