@@ -1,8 +1,8 @@
-## Bonjour 👋
-### Moi c'est Leonel Ngoya ( LN )
+## Hello 👋
+### I'm Leonel Ngoya ( LN )
 
-- 🌴 Je suis un <b>Développeur Frontend</b> et <b>Intégrateur web</b>
-- 📫 Decouvrez plus sur moi <a href="https://lndev.me" target="_blank">ICI</a>
+- 🌴 I am a <b>Frontend Developer</b> and <b>Web Integrator</b>
+- 📫 Find out more about me <a href="https://lndev.me" target="_blank">HERE</a>
 
 <!--START_SECTION:waka-->
 
