@@ -8,10 +8,10 @@
 [![wakatime-stats](https://github.com/ln-dev7/ln-dev7/blob/main/images/stat.svg)](https://wakatime.com/@ln_dev7)
 
 <p align="left"> 
-  <a href="https://twitter.com/ln_dev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ln_dev7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lndev" height="30" width="40" /></a>
-<a href="https://instagram.com/ln_dev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ln_dev7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lndev" height="30" width="40" /></a>
+    <a href="https://twitter.com/ln_dev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ln_dev7" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/lndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lndev" height="30" width="40" /></a>
+  <a href="https://instagram.com/ln_dev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ln_dev7" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/lndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lndev" height="30" width="40" /></a>
   <img src="https://komarev.com/ghpvc/?username=ln-dev7&label=Profile%20views&color=0e75b6&style=flat" alt="ln-dev7" />
 </p>
 
