@@ -1,7 +1,7 @@
 ## Hello 👋
 ### I'm Leonel Ngoya ( <a href="https://leonelngoya.com" target="_blank">LN</a> )
 
-- 🌴 I am a <b>Frontend Developer</b> and <b>Web Integrator</b>
+- 🌴 I am a <b>Frontend Developer</b>, <b>Web Integrator</b> and <b><a href="https://www.awwwards.com/jury-member/ln-dev" target="_blank">Awwwards Young Jury</a></b>
 - 📫 Find out more about me <a href="https://lndev.me" target="_blank">HERE</a>
 
 ### Wakatime
