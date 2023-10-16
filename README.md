@@ -1,8 +1,8 @@
 ## Hello 👋
 ### I'm Leonel Ngoya but you can call me LN
 
-- 🌴 I am a <b>Frontend Engineer</b> and <b><a href="https://www.awwwards.com/jury-member/ln-dev" target="_blank">Awwwards Young Jury</a></b>
-- 📫 Find out more about me here : <a href="https://leonelngoya.com" target="_blank">leonelngoya.com</a>
+- 🌴 I am a <b>Freelance Frontend Developer</b> and <b><a href="https://www.awwwards.com/jury-member/ln-dev" target="_blank">Awwwards Young Jury</a></b>
+- 📫 Find out more about me here : <b><a href="https://leonelngoya.com" target="_blank">leonelngoya.com</a></b>
 
 #### 🚀 My projects
 
