@@ -13,6 +13,8 @@
 #### Wakatime
 [![wakatime-stats](https://github.com/ln-dev7/ln-dev7/blob/main/images/stat.svg)](https://wakatime.com/@ln_dev7)
 
+[![wakatime](https://wakatime.com/badge/user/a0876b4f-af83-47cb-b907-76ced9e28a6b.svg)](https://wakatime.com/@ln_dev7)
+
 #### Follow me on
 <p align="left"> 
     <a href="https://twitter.com/ln_dev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ln_dev7" height="30" width="40" /></a>
