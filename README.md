@@ -15,15 +15,16 @@
 
 [![wakatime](https://wakatime.com/badge/user/a0876b4f-af83-47cb-b907-76ced9e28a6b.svg)](https://wakatime.com/@ln_dev7)
 
-#### Follow me on
-<p align="left"> 
-    <a href="https://twitter.com/ln_dev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ln_dev7" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/lndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lndev" height="30" width="40" /></a>
-  <a href="https://instagram.com/ln_dev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ln_dev7" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/lndev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lndev" height="30" width="40" /></a>
-</p>
+#### 🌐 Follow me on
+
+- <a href="https://twitter.com/ln_dev7" target="_blank">X ( Twitter )</a>
+- <a href="https://linkedin.com/in/lndev" target="_blank">LinkedIn</a>
+- <a href="https://youtube.com/@LNDev/" target="_blank">YouTube</a>
+- <a href="https://awwwards.com/ln-dev/" target="_blank">Awwwards</a>
+- <a href="https://instagram.com/ln_dev7" target="_blank">Instagram</a>
+- <a href="https://bento.me/lndev" target="_blank">My Bento</a>
 
 <img src="https://komarev.com/ghpvc/?username=ln-dev7&label=Profile%20views&color=0e75b6&style=flat" alt="ln-dev7" />
 
-#### Support
+#### 💰 Support
 <p><a href="https://www.buymeacoffee.com/lndev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lndev" /></a></p><br><br>
