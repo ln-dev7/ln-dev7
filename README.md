@@ -27,4 +27,4 @@
 <img src="https://komarev.com/ghpvc/?username=ln-dev7&label=Profile%20views&color=0e75b6&style=flat" alt="ln-dev7" />
 
 #### 💰 Support
-<p><a href="https://www.buymeacoffee.com/lndev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lndev" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/lndev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=lndev&button_colour=BD5FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a></p><br><br>
