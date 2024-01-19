@@ -17,6 +17,7 @@
 
 #### 🌐 Follow me on
 
+- <a href="https://gitlab.com/ln-dev7" target="_blank">GitLab</a>
 - <a href="https://twitter.com/ln_dev7" target="_blank">X ( Twitter )</a>
 - <a href="https://linkedin.com/in/lndev" target="_blank">LinkedIn</a>
 - <a href="https://youtube.com/@LNDev/" target="_blank">YouTube</a>
