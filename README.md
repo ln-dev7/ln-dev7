@@ -11,11 +11,6 @@
 - <a href="https://ulwo.lndev.me/" target="_blank">Ulwo</a> : Create and apply for jobs.
 - <a href="https://lnui.lndev.me/" target="_blank">LNUI</a> : With LNUI you will have components of all types that will allow you to build your website from scratch.
 
-#### Wakatime
-[![wakatime-stats](https://github.com/ln-dev7/ln-dev7/blob/main/images/stat.svg)](https://wakatime.com/@ln_dev7)
-
-[![wakatime](https://wakatime.com/badge/user/a0876b4f-af83-47cb-b907-76ced9e28a6b.svg)](https://wakatime.com/@ln_dev7)
-
 #### 🌐 Follow me on
 
 - <a href="https://gitlab.com/ln-dev7" target="_blank">GitLab</a>
