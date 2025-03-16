@@ -6,12 +6,10 @@
 
 #### 🚀 My projects
 
+- <a href="https://circle.lndev.me/" target="_blank">Circle</a> : Project management interface inspired by Linear.
 - <a href="https://sharuco.lndev.me/" target="_blank">Sharuco</a> : Share and explore essential codes, create forms to retrieve information and keep useful links.
 - <a href="https://ui.lndev.me/" target="_blank">lndev/ui</a> : Fine components coded by lndev.
 - <a href="https://wp.lndev.me/" target="_blank">World Portfolios</a> : Open source collection of World Portfolios.
-- <a href="https://cotocowind.lndev.me/" target="_blank">CoToCoWind</a> : Easily find the closest Tailwind CSS color to any hue.
-- <a href="https://ulwo.lndev.me/" target="_blank">Ulwo</a> : Create and apply for jobs.
-- <a href="https://lnui.lndev.me/" target="_blank">LNUI</a> : With LNUI you will have components of all types that will allow you to build your website from scratch.
 
 #### 🌐 Follow me on
 
@@ -19,7 +17,7 @@
 - <a href="https://twitter.com/ln_dev7" target="_blank">X ( Twitter )</a>
 - <a href="https://linkedin.com/in/lndev" target="_blank">LinkedIn</a>
 - <a href="https://youtube.com/@LNDev/" target="_blank">YouTube</a>
-- <a href="https://awwwards.com/ln-dev/" target="_blank">Awwwards</a>
+- <a href="https://bsky.app/profile/lndev.bsky.social" target="_blank">BlueSky</a>
 - <a href="https://instagram.com/ln_dev7" target="_blank">Instagram</a>
 - <a href="https://bento.me/lndev" target="_blank">My Bento</a>
 
