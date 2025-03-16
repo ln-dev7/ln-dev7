@@ -6,7 +6,7 @@
 
 #### 🚀 My projects
 
-- <a href="https://circle.lndev.me/" target="_blank">Circle</a> : Project management interface inspired by Linear.
+- <a href="https://circle.lndev.me/" target="_blank">Circle</a> : Project management interface inspired by Linear's design.
 - <a href="https://sharuco.lndev.me/" target="_blank">Sharuco</a> : Share and explore essential codes, create forms to retrieve information and keep useful links.
 - <a href="https://ui.lndev.me/" target="_blank">lndev/ui</a> : Fine components coded by lndev.
 - <a href="https://wp.lndev.me/" target="_blank">World Portfolios</a> : Open source collection of World Portfolios.
