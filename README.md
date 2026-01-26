@@ -6,6 +6,7 @@
 
 #### 🚀 My projects
 
+- <a href="https://pro.lndev.me/" target="_blank">Sqaure UI Pro</a> : Premium UI templates that accelerate your development.
 - <a href="https://square.lndev.me/" target="_blank">Sqaure UI</a> : Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
 - <a href="https://circle.lndev.me/" target="_blank">Circle</a> : Project management interface inspired by Linear's design.
 - <a href="https://sharuco.lndev.me/" target="_blank">Sharuco</a> : Share and explore essential codes, create forms to retrieve information and keep useful links.
