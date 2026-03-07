@@ -21,6 +21,5 @@
 - <a href="https://youtube.com/@LNDev/" target="_blank">YouTube</a>
 - <a href="https://bsky.app/profile/lndev.bsky.social" target="_blank">BlueSky</a>
 - <a href="https://instagram.com/ln_dev7" target="_blank">Instagram</a>
-- <a href="https://bento.me/lndev" target="_blank">My Bento</a>
 
 <img src="https://komarev.com/ghpvc/?username=ln-dev7&label=Profile%20views&color=0e75b6&style=flat" alt="ln-dev7" />
