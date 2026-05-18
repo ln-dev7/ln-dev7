@@ -1,8 +1,8 @@
 ## Hello 👋
 ### I'm Leonel Ngoya but you can call me LN
 
-- 🌴 I am a <b>Frontend Developer</b> and <b><a href="https://www.awwwards.com/jury-member/ln-dev" target="_blank">Awwwards Young Jury</a></b>
-- 📫 Find out more about me here : <b><a href="https://leonelngoya.com" target="_blank">leonelngoya.com</a></b>
+- 🌴 I am a <b>Software Developer</b>
+- 📫 Find out more about me here : <b><a href="https://lndev.me" target="_blank">lndev.me</a></b>
 
 #### 🚀 My projects
 
@@ -16,9 +16,9 @@
 
 #### 🌐 Follow me on
 
-- <a href="https://gitlab.com/ln-dev7" target="_blank">GitLab</a>
 - <a href="https://twitter.com/ln_dev7" target="_blank">X ( Twitter )</a>
 - <a href="https://linkedin.com/in/lndev" target="_blank">LinkedIn</a>
+- <a href="https://www.threads.com/@ln_dev7" target="_blank">Threads</a>
 - <a href="https://youtube.com/@LNDev/" target="_blank">YouTube</a>
 - <a href="https://bsky.app/profile/lndev.bsky.social" target="_blank">BlueSky</a>
 - <a href="https://instagram.com/ln_dev7" target="_blank">Instagram</a>
