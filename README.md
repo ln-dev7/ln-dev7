@@ -7,13 +7,13 @@
 #### 🚀 My projects
 
 - <a href="https://travora.lndev.me/" target="_blank">Travora</a> : Your next trip, properly prepared.
-- <a href="https://pro.lndevui.com/" target="_blank">Sqaure UI Pro</a> : Premium UI templates that accelerate your development.
-- <a href="https://blockus.lndevui.com/" target="_blank">Blockus</a> : Beautiful shadcn blocks for devs who ship.
-- <a href="https://square.lndevui.com/" target="_blank">Sqaure UI</a> : Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
+- <a href="https://pro.lndevui.com/" target="_blank">Sqaure UI Pro</a> ( acq. ) : Premium UI templates that accelerate your development.
+- <a href="https://blockus.lndevui.com/" target="_blank">Blockus</a> ( acq. ) : Beautiful shadcn blocks for devs who ship.
+- <a href="https://square.lndevui.com/" target="_blank">Sqaure UI</a> ( acq. ) : Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
 - <a href="https://tchope.lndev.me/" target="_blank">Tchopé</a> : Cameroonian cuisine in your pocket.
 - <a href="https://circle.lndev.me/" target="_blank">Circle</a> : Project management interface inspired by Linear's design.
 - <a href="https://sharuco.lndev.me/" target="_blank">Sharuco</a> : Share and explore essential codes, create forms to retrieve information and keep useful links.
-- <a href="https://ui.lndevui.com/" target="_blank">lndev/ui</a> : Fine components coded by lndev.
+- <a href="https://ui.lndevui.com/" target="_blank">lndev/ui</a> ( acq. ) : Fine components coded by lndev.
 - <a href="https://wp.lndev.me/" target="_blank">World Portfolios</a> : Open source collection of World Portfolios.
 
 #### 🌐 Follow me on
