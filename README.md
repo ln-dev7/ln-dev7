@@ -7,6 +7,7 @@
 #### 🚀 My projects
 
 - <a href="https://travora.lndev.me/" target="_blank">Travora</a> : Your next trip, properly prepared.
+- <a href="https://chesscoach.lndev.me/" target="_blank">Chess Coach</a> : Lessons built from your own games.
 - <a href="https://pro.lndevui.com/" target="_blank">Sqaure UI Pro</a> ( acq. ) : Premium UI templates that accelerate your development.
 - <a href="https://blockus.lndevui.com/" target="_blank">Blockus</a> ( acq. ) : Beautiful shadcn blocks for devs who ship.
 - <a href="https://square.lndevui.com/" target="_blank">Sqaure UI</a> ( acq. ) : Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
