@@ -6,6 +6,7 @@
 
 #### 🚀 My projects
 
+- <a href="https://threecn.dev/" target="_blank">ThreeCN</a> : 3D scenes for shadcn/ui.
 - <a href="https://travora.lndev.me/" target="_blank">Travora</a> : Your next trip, properly prepared.
 - <a href="https://chesscoach.lndev.me/" target="_blank">Chess Coach</a> : Lessons built from your own games.
 - <a href="https://pro.lndevui.com/" target="_blank">Sqaure UI Pro</a> ( acq. ) : Premium UI templates that accelerate your development.
