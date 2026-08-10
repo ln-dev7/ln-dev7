@@ -8,6 +8,7 @@
 
 - <a href="https://threecn.dev/" target="_blank">ThreeCN</a> : 3D scenes for shadcn/ui.
 - <a href="https://travora.lndev.me/" target="_blank">Travora</a> : Your next trip, properly prepared.
+- <a href="https://roster.lndev.me/" target="_blank">Roster</a> : Your coding agents just got an office.
 - <a href="https://dockkeep.lndev.me/" target="_blank">Dock Keep</a> : Keep your Dock exactly the way you arranged it.
 - <a href="https://games.lndev.me/" target="_blank">Games</a> : Stories that text you back.
 - <a href="https://chesscoach.lndev.me/" target="_blank">Chess Coach</a> : Lessons built from your own games.
