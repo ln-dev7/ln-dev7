@@ -6,6 +6,7 @@
 
 #### 🚀 My projects
 
+- <a href="https://voxylio.lndev.me/en" target="_blank">Voxylio</a> : Watch any video in your language.
 - <a href="https://threecn.dev/" target="_blank">ThreeCN</a> : 3D scenes for shadcn/ui.
 - <a href="https://travora.lndev.me/" target="_blank">Travora</a> : Your next trip, properly prepared.
 - <a href="https://roster.lndev.me/" target="_blank">Roster</a> : Your coding agents just got an office.
